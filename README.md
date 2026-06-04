@@ -3,7 +3,7 @@
 刷时长项目来源于https://github.com/Avenshy
 刷完成度项目来源与welearn-master已经找不到原项目了
 
-该脚本一切权力归原作者所有
+该脚本一切解释权归原作者所有
 
 ## **WelearnCurriculumFinsh**
 
